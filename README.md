@@ -206,10 +206,6 @@ The resulting build is ready for zero-config deployment to [Vercel](https://verc
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — see the LICENSE file for details.
-
 <p align="center">
   <sub>Built with curiosity and wonder for the cosmos 🚀</sub>
 </p>
