@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/x-banner.jpg" alt="Sol System Orrery Banner" width="100%" />
-</p>
-
 # 🌌 Sol System Orrery (Better Call Sol)
 
 <p align="center">
